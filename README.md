@@ -1,4 +1,4 @@
-ACTIVIDAD 2 II corte - Juan Padilla
+ACTIVIDAD 1 II corte - Juan Padilla
 
 La compañía Cards & Cards le ha encargado crear un sistema de backend para un juego de 
 cartas al estilo Magic, Yu Gi ho, etc. a lo que usted deberá realizar el trabajo siguiendo las 
